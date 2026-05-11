@@ -1,0 +1,13 @@
+# Build output
+/target
+
+# Environment variables — NEVER commit this
+.env
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
